@@ -1,6 +1,6 @@
 Welcome to my little corner of the internet ✌ 
 
-- 😁 As my username suggests, I am an annoyingly happy individual, and have been known to be an idiot, on occassion
+- 😁 As my username suggests, I am an annoyingly happy individual, not afraid to be a beginner and learn new things
 - 💼 I work at [Actico](https://www.actico.com/#) as a Software Developer
 - ☕ Java is my language current of choice, which I am told mustn't be mentioned out loud
 - 📚 I am currently learning Go, and dabbling in the dark arts of Linux
