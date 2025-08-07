@@ -11,5 +11,5 @@ Welcome to my little corner of the internet ✌
 - [JavaMVX](https://dl.acm.org/doi/pdf/10.1145/3689769) - Multithreaded multiversion execution system - Fixed exits and implemented barriers before role switching
 - [RSA Proof](https://github.com/thehappyidiot/coq_rsa_proof) - A Proof for RSA written using [Coq proof assistant](https://rocq-prover.org/)
 - [Monopoly](https://github.com/thehappyidiot/Monopoly-graphics.h) - A rudimentary version of the game written in C++
-- [Albatross](https://github.com/cs474-uic/cs473-f22-a5-meer2607) - Compiler for a simple C-like language (For [CS473](https://cs474-uic.github.io/cs474-fall2021-site/))
+- [Albatross](https://github.com/thehappyidiot/albatross) - Compiler for a simple C-like language (For [CS473](https://cs474-uic.github.io/cs474-fall2021-site/))
 - [ruilin.love](https://ruilin.love) - A website to try out vibe coding and give a "gift"
