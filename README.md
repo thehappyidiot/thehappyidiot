@@ -2,7 +2,7 @@ Welcome to my little corner of the internet ✌
 
 - 😁 As my username suggests, I am an annoyingly happy individual, not afraid to be a beginner and learn new things
 - 💼 I work at [Actico](https://www.actico.com/#) as a Software Developer
-- ☕ Java is my language current of choice, which I am told mustn't be mentioned out loud
+- ☕ Java is my language of choice, which I am told mustn't be mentioned out loud
 - 📚 I am currently learning Go, and dabbling in the dark arts of Linux
 - 🏕 In my free time, I run, lift, and roll around (I am told it's called Jiu Jitsu)
 
